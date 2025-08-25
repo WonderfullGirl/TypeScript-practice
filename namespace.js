@@ -26,4 +26,4 @@ var Customers;
 })(Customers || (Customers = {}));
 console.log(Products.listProduct());
 console.log(Customers.ShowPeople());
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=namespace.js.map
